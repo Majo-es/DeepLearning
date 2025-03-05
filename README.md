@@ -1,1 +1,4 @@
 # DeepLearning
+<img width="670" alt="Screenshot 2025-03-05 at 19 51 28" src="https://github.com/user-attachments/assets/f3eae590-4eb4-476a-8e42-2299e39d1e7d" />
+<img width="722" alt="Screenshot 2025-03-05 at 19 51 54" src="https://github.com/user-attachments/assets/9cdad1ef-2342-4013-92a7-844534055219" />
+<img width="671" alt="Screenshot 2025-03-05 at 19 52 21" src="https://github.com/user-attachments/assets/e470ef26-b3f6-4ec1-abff-fb76ffe5b546" />
