@@ -8,3 +8,6 @@
 <img width="1050" alt="Screenshot 2025-03-05 at 20 24 08" src="https://github.com/user-attachments/assets/7f283ee3-0107-415f-9e76-0aac59b1ea04" />
 <img width="1095" alt="Screenshot 2025-03-05 at 20 16 05" src="https://github.com/user-attachments/assets/7106e4dd-6ed1-48b9-95fd-54a9b6d91af1" />
 
+### Análisis de sentimiento:
+<img width="1144" alt="Screenshot 2025-03-12 at 23 17 18" src="https://github.com/user-attachments/assets/3da46afa-ed89-4482-8787-dc5f29b606a9" />
+
