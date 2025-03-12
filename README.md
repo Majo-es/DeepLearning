@@ -11,3 +11,8 @@
 ### Análisis de sentimiento:
 <img width="1144" alt="Screenshot 2025-03-12 at 23 17 18" src="https://github.com/user-attachments/assets/3da46afa-ed89-4482-8787-dc5f29b606a9" />
 
+### Generador de Nombres:
+<img width="1027" alt="Screenshot 2025-03-12 at 23 29 22" src="https://github.com/user-attachments/assets/e6bac2f7-3fd7-42f7-a0fc-b1d676c6477f" />
+<img width="999" alt="Screenshot 2025-03-12 at 23 29 48" src="https://github.com/user-attachments/assets/46d0f217-8734-4343-8d09-2c46b4d07403" />
+<img width="1042" alt="Screenshot 2025-03-12 at 23 30 07" src="https://github.com/user-attachments/assets/fc9f4528-96d7-40df-82f3-6f6509e498dd" />
+<img width="1078" alt="Screenshot 2025-03-12 at 23 30 25" src="https://github.com/user-attachments/assets/80f4fb73-3bb2-4138-a088-ec12ac041e6e" />
