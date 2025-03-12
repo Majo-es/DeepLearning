@@ -19,8 +19,8 @@
 
 ### Generador de Menú Semanal con Gemini:
 <img width="1020" alt="Screenshot 2025-03-12 at 23 57 32" src="https://github.com/user-attachments/assets/9cded091-68f7-4999-b633-27e9a719b8b5" />
-<img width="529" alt="Screenshot 2025-03-12 at 23 57 53" src="https://github.com/user-attachments/assets/c90e721b-a84a-42e7-8926-d371da534513" />
 <img width="186" alt="Screenshot 2025-03-12 at 23 58 10" src="https://github.com/user-attachments/assets/b8b73cd0-273b-4ddc-899d-9b8f6af2c5d0" />
+<img width="529" alt="Screenshot 2025-03-12 at 23 57 53" src="https://github.com/user-attachments/assets/c90e721b-a84a-42e7-8926-d371da534513" />
 <img width="260" alt="Screenshot 2025-03-12 at 23 58 26" src="https://github.com/user-attachments/assets/366e61f5-593a-4197-8502-f5992dc60ee6" />
 <img width="223" alt="Screenshot 2025-03-12 at 23 58 44" src="https://github.com/user-attachments/assets/1cee1094-1433-42b9-a3dc-769e3c7e92de" />
 
