@@ -27,6 +27,7 @@
 ### RAG:
 <img width="1131" alt="Screenshot 2025-03-25 at 00 50 37" src="https://github.com/user-attachments/assets/9e6d43e2-9f59-4a24-a7c0-f6f5a96f259f" />
 <img width="1096" alt="Screenshot 2025-03-25 at 00 51 03" src="https://github.com/user-attachments/assets/fe85a9fd-28b7-47dc-9fe2-d6af48d33b1a" />
-<img width="428" alt="Screenshot 2025-03-25 at 00 51 23" src="https://github.com/user-attachments/assets/daec7d08-fab1-4c4a-be69-8fa066de8f17" />
 <img width="474" alt="Screenshot 2025-03-25 at 00 51 15" src="https://github.com/user-attachments/assets/b0ce8cdd-38eb-468f-af84-6b5c835cf0a8" />
+<img width="428" alt="Screenshot 2025-03-25 at 00 51 23" src="https://github.com/user-attachments/assets/daec7d08-fab1-4c4a-be69-8fa066de8f17" />
+
 
