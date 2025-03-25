@@ -30,4 +30,10 @@
 <img width="474" alt="Screenshot 2025-03-25 at 00 51 15" src="https://github.com/user-attachments/assets/b0ce8cdd-38eb-468f-af84-6b5c835cf0a8" />
 <img width="428" alt="Screenshot 2025-03-25 at 00 51 23" src="https://github.com/user-attachments/assets/daec7d08-fab1-4c4a-be69-8fa066de8f17" />
 
+### Reuniones:
+<img width="1108" alt="Screenshot 2025-03-25 at 23 28 55" src="https://github.com/user-attachments/assets/50460408-1933-4cf1-b08f-a5b1da63428b" />
+<img width="1005" alt="Screenshot 2025-03-25 at 23 29 18" src="https://github.com/user-attachments/assets/059dd928-c8c3-4a3e-bed4-7a33191df498" />
+<img width="1015" alt="Screenshot 2025-03-25 at 23 29 55" src="https://github.com/user-attachments/assets/f45fcec3-559e-452e-b791-57b6737330d4" />
+<img width="1003" alt="Screenshot 2025-03-25 at 23 30 15" src="https://github.com/user-attachments/assets/e1e6dd45-08fc-4ee6-a600-b738d9031b45" />
+
 
