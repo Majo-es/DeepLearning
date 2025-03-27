@@ -47,5 +47,10 @@
 ### Image Editor with Gemini:
 <img width="1067" alt="Screenshot 2025-03-27 at 14 44 33" src="https://github.com/user-attachments/assets/c6dc5918-95f9-42f4-8af1-abad1f815803" />
 
+### Object Detection with Webcam:
+<img width="1019" alt="Screenshot 2025-03-27 at 14 57 00" src="https://github.com/user-attachments/assets/594942e7-d4cf-4020-93b0-88176da262ae" />
+<img width="1016" alt="Screenshot 2025-03-27 at 15 00 56" src="https://github.com/user-attachments/assets/65af6402-7fb3-4832-8b4f-fced32688dfe" />
 
+### Clasificador de Frutas:
+<img width="1035" alt="Screenshot 2025-03-27 at 15 01 54" src="https://github.com/user-attachments/assets/f698861e-fec8-43a7-99f1-74a4d23bbbb6" />
 
