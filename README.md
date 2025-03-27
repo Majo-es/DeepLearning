@@ -41,6 +41,9 @@
 <img width="337" alt="Screenshot 2025-03-27 at 14 45 33" src="https://github.com/user-attachments/assets/f99b743e-0114-400e-b90e-d64ac2c07341" />
 <img width="340" alt="Screenshot 2025-03-27 at 14 45 52" src="https://github.com/user-attachments/assets/5b7685f5-5bc6-4232-9d39-0370a07741ba" />
 
+<img width="241" alt="Screenshot 2025-03-27 at 14 46 52" src="https://github.com/user-attachments/assets/63e3b219-0537-4c61-bc57-3f2bbbccf4a1" />
+<img width="295" alt="Screenshot 2025-03-27 at 14 47 06" src="https://github.com/user-attachments/assets/f0f7639f-ad95-4b4f-ace1-832377dfbd63" />
+
 ### Image Editor with Gemini:
 <img width="1067" alt="Screenshot 2025-03-27 at 14 44 33" src="https://github.com/user-attachments/assets/c6dc5918-95f9-42f4-8af1-abad1f815803" />
 
