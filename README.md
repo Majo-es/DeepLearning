@@ -57,4 +57,7 @@
 ### Audio Classifier:
 <img width="1063" alt="Screenshot 2025-04-02 at 00 07 33" src="https://github.com/user-attachments/assets/d492882f-3e1e-43d3-9872-a1d3dd208fef" />
 
+### openai/whisper-base:
+<img width="1037" alt="Screenshot 2025-04-02 at 00 37 22" src="https://github.com/user-attachments/assets/a7707856-357a-45db-a228-87fc2830012e" />
+
 
