@@ -54,3 +54,7 @@
 ### Clasificador de Frutas:
 <img width="1035" alt="Screenshot 2025-03-27 at 15 01 54" src="https://github.com/user-attachments/assets/f698861e-fec8-43a7-99f1-74a4d23bbbb6" />
 
+### Audio Classifier:
+<img width="1063" alt="Screenshot 2025-04-02 at 00 07 33" src="https://github.com/user-attachments/assets/d492882f-3e1e-43d3-9872-a1d3dd208fef" />
+
+
