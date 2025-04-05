@@ -60,4 +60,11 @@
 ### openai/whisper-base:
 <img width="1037" alt="Screenshot 2025-04-02 at 00 37 22" src="https://github.com/user-attachments/assets/a7707856-357a-45db-a228-87fc2830012e" />
 
+### Voice Assistant:
+(Audio: Abbott Elementary)
+<img width="1057" alt="Screenshot 2025-04-05 at 17 56 11" src="https://github.com/user-attachments/assets/06ae0edc-772c-4f31-89b8-32feb6ceab1c" />
+<img width="494" alt="Screenshot 2025-04-05 at 17 56 31" src="https://github.com/user-attachments/assets/037b7008-c1fa-4cde-bd05-dd584e88c2ee" />
+
+<img width="1005" alt="Screenshot 2025-04-05 at 18 00 16" src="https://github.com/user-attachments/assets/9209199c-42ce-4324-8774-65de5f5102ef" />
+
 
